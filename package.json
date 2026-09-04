@@ -1,0 +1,14 @@
+{
+  "name": "micro-capstone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arduinocode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node arduinocode.js"
+  },
+  "keywords": [],
+  "author": "AFSANIVAN",
+  "license": "ISC",
+  "type": "module"
+}
